@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 💬 GitHub Discussions
+    url: https://github.com/[your-org]/dartmouth-code-writers-guild/discussions
+    about: Ask questions, share ideas, or start conversations about software engineering practices
+  - name: 📅 View Upcoming Sessions
+    url: https://github.com/[your-org]/dartmouth-code-writers-guild#-upcoming-sessions
+    about: See what's coming up next in the Code Writers Guild
