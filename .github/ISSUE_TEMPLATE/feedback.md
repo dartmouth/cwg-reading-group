@@ -2,7 +2,8 @@
 name: General Feedback
 about: Share ideas for improving the Code Writers Guild
 title: ''
-labels: feedback
+labels:
+  - "feedback"
 assignees: ''
 ---
 

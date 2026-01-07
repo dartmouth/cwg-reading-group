@@ -82,7 +82,7 @@ Example entry:
 Have a blog post, video, or article that sparked ideas? We want to hear about it!
 
 **Good topics are:**
-- ✅ Short (< 30 min to consume)
+- ✅ Short (< 45 min to consume)
 - ✅ Relevant to software development practices
 - ✅ Discussion-worthy (not just tutorials)
 - ✅ Accessible to a broad audience

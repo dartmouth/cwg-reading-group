@@ -2,7 +2,8 @@
 name: Session Retrospective
 about: Gather feedback after a Code Writers Guild session
 title: 'Retrospective: [MONTH YEAR] Session'
-labels: retrospective
+labels:
+  - "retrospective"
 assignees: ''
 ---
 

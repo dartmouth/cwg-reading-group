@@ -2,7 +2,8 @@
 name: Topic Suggestion
 about: Suggest content for an upcoming Code Writers Guild session
 title: '[TOPIC] '
-labels: topic-suggestion
+labels:
+  - "topic suggestion"
 assignees: ''
 ---
 
