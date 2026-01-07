@@ -128,7 +128,7 @@ See our full [Code of Conduct](./CODE_OF_CONDUCT.md).
 ```
 .
 ├── README.md                          # This file
-├── CODE_OF_CONDUCT.md                 # Discussion guidelines
+├── CODE_OF_CONDUCT.md                 # Community norms
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── topic-suggestion.md        # Template for suggesting topics
