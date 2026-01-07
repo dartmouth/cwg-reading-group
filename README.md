@@ -43,7 +43,7 @@ We focus on practical, actionable content that can influence how we build softwa
 ### For Participants
 
 1. **Join the group:** Watch this repository to get notifications
-2. **Review materials:** Check the [upcoming session](#upcoming-sessions) 1-2 weeks before
+2. **Review materials:** Check the [upcoming session](#-upcoming-sessions) 1-2 weeks before
 3. **Engage:** Add thoughts to the discussion thread before the meeting
 4. **Attend:** Join us live or catch up via meeting notes afterward
 5. **Contribute:** Suggest topics via [GitHub Issues](../../issues/new?template=topic-suggestion.md)
