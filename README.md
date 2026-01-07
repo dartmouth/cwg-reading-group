@@ -8,7 +8,7 @@ A monthly forum for Dartmouth members who write code to discuss software enginee
 
 ## 🎯 Purpose
 
-This reading group brings together software engineers, research software engineers, and anyone who writes code at ITC to:
+This reading group brings together software engineers, research software engineers, and anyone who writes code at Dartmouth to:
 
 - **Learn** about industry practices and emerging ideas in software engineering
 - **Discuss** how these concepts apply to our work at Dartmouth
@@ -22,7 +22,7 @@ We focus on practical, actionable content that can influence how we build softwa
 - **Frequency:** Monthly (typically 2nd Thursday, 2:00-2:45 PM ET)
 - **Duration:** 45 minutes
 - **Location:** Hybrid (room TBD + video conference link in calendar invite)
-- **Materials:** Short-form content (~15-30 min reading/watching)
+- **Materials:** Usually short-form content (~15-30 min reading/watching), occasionally longer
   - Blog posts
   - Conference talks
   - Style guides
@@ -107,11 +107,11 @@ Facilitation rotates among volunteers. **No expertise required** – just:
 - Guide conversation during the session
 - Help capture notes
 
-Interested in facilitating? Add your name here via PR or contact [@Simon-Stone].
+Interested in facilitating? Add your name here via PR or contact @Simon-Stone.
 
 **Current facilitators:**
-- [@Simon-Stone]
-- [@beaudrychase]
+- @Simon-Stone
+- @beaudrychase
 
 ## 🤝 Discussion Guidelines
 
@@ -132,15 +132,14 @@ See our full [Code of Conduct](./CODE_OF_CONDUCT.md).
 ├── .github/
 │   ├── ISSUE_TEMPLATE/
 │   │   ├── topic-suggestion.md        # Template for suggesting topics
+│   │   ├── feedback.md                # Template for general feedback
 │   │   └── session-retrospective.md   # Template for post-session feedback
 │   └── DISCUSSION_TEMPLATE/
 │       └── session-discussion.md      # Template for session threads
-├── sessions/
-│   ├── 2024-03/
-│   │   ├── README.md                  # Session details & materials
-│   │   └── notes.md                   # Discussion notes
-│   └── template/                      # Template for new sessions
+├── sessions/                          # Notes from previous sessions
+│   └── template/                      # Template for new session notes
 └── resources/
+    ├── discussion-template-guide.md   # Template for new session discussion thread
     └── facilitation-guide.md          # How to facilitate a session
 ```
 
@@ -149,13 +148,12 @@ See our full [Code of Conduct](./CODE_OF_CONDUCT.md).
 - **Watch this repo:** Click "Watch" → "All Activity" at the top
 - **Check Discussions:** New session announcements posted 2 weeks ahead
 - **Calendar:** Accept the recurring calendar invite
-- **Slack/Teams:** Follow #swe-reading-group (if applicable)
+- **Slack:** Follow #code-writers-guild
 
 ## 📊 Feedback & Improvements
 
 This is an experiment! Help us improve:
-- [Open an issue](../../issues/new) with suggestions
-- Participate in retrospective discussions after sessions 3 and 6
+- [Open an issue](../../issues/new?template=feedback.md) with suggestions
 - Submit PRs to improve documentation
 
 ## ❓ Questions?
@@ -163,7 +161,7 @@ This is an experiment! Help us improve:
 - **About the format?** Check [Discussions](../../discussions)
 - **About a specific session?** Comment on that session's discussion thread
 - **About facilitating?** See the [facilitation guide](./resources/facilitation-guide.md)
-- **Something else?** Contact [@your-github-handle] or [@colleague-handle]
+- **Something else?** Contact @Simon-Stone or @beaudrychase
 
 ---
 
