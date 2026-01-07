@@ -107,11 +107,11 @@ Facilitation rotates among volunteers. **No expertise required** – just:
 - Guide conversation during the session
 - Help capture notes
 
-Interested in facilitating? Add your name here via PR or contact @Simon-Stone.
+Interested in facilitating? Add your name here via PR or contact [Simon](mailto:simon.stone@dartmouth.edu?subject=Code%20Writers%20Guild).
 
 **Current facilitators:**
-- @Simon-Stone
-- @beaudrychase
+- [Simon Stone](mailto:simon.stone@dartmouth.edu?subject=Code%20Writers%20Guild)
+- [Beaudry Chase](mailto:beaudry.chase@dartmouth.edu?subject=Code%20Writers%20Guild)
 
 ## 🤝 Discussion Guidelines
 
@@ -161,7 +161,7 @@ This is an experiment! Help us improve:
 - **About the format?** Check [Discussions](../../discussions)
 - **About a specific session?** Comment on that session's discussion thread
 - **About facilitating?** See the [facilitation guide](./resources/facilitation-guide.md)
-- **Something else?** Contact @Simon-Stone or @beaudrychase
+- **Something else?** Contact [Simon](mailto:simon.stone@dartmouth.edu?subject=Code%20Writers%20Guild) or [Beaudry](mailto:beaudry.chase@dartmouth.edu?subject=Code%20Writers%20Guild)
 
 ---
 
