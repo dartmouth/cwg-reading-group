@@ -1,0 +1,105 @@
+name: "Session Discussion"
+description: "Template for monthly Code Writers Guild discussion sessions"
+title: "[Session Discussion] MONTH YEAR - Topic Title"
+body:
+  - type: markdown
+    attributes:
+      value: "## 📚 Session Materials"
+
+  - type: input
+    id: session_date
+    attributes:
+      label: "Date"
+      description: "Session date and time"
+      placeholder: "e.g., June 12, 2025 @ 2:00 PM ET"
+    validations:
+      required: true
+
+  - type: input
+    id: material_title
+    attributes:
+      label: "Material"
+      description: "Title and link to the session material"
+      placeholder: "e.g., [Article Title](https://example.com)"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: material_type
+    attributes:
+      label: "Type"
+      options:
+        - Blog post
+        - Video
+        - Article
+        - Style Guide
+    validations:
+      required: true
+
+  - type: input
+    id: material_length
+    attributes:
+      label: "Length"
+      description: "Estimated time to consume the material"
+      placeholder: "e.g., ~15 minutes"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "## 📖 Summary"
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: "Summary"
+      description: "2-3 sentence summary of what this material covers"
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: "## 💬 Discussion Questions"
+
+  - type: textarea
+    id: discussion_questions
+    attributes:
+      label: "Discussion Questions"
+      description: "Seed questions for the session"
+      value: |
+        1. **[Question about the main concept]**
+
+        2. **[Question about applying to our work]**
+
+        3. **[Question about tradeoffs or alternatives]**
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ## 🧵 Share Your Thoughts
+
+        Drop your reactions, questions, or related experiences below!
+
+        - What resonated with you?
+        - What do you disagree with?
+        - How does this relate to your current projects?
+        - What questions do you have?
+
+  - type: textarea
+    id: thoughts
+    attributes:
+      label: "Your Thoughts"
+      description: "Share your reactions, questions, or related experiences"
+    validations:
+      required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+
+        **Can't make the live session?** No problem - discussion continues here asynchronously.
+
+        **Meeting notes** will be posted at `/sessions/YYYY-MM/notes.md` after the session.
