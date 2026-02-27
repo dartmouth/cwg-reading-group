@@ -1,5 +1,3 @@
-name: "Session Discussion"
-description: "Template for monthly Code Writers Guild discussion sessions"
 title: "[Session Discussion] MONTH YEAR - Topic Title"
 body:
   - type: markdown
