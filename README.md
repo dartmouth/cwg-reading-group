@@ -60,13 +60,15 @@ We're here to learn together, not quiz each other.
 
 ## 📚 Upcoming Sessions
 
-### Next Session: [Date TBD]
-**Topic:** TBD
-**Material:** Link TBD
-**Facilitator:** TBD
-**Discussion:** [Link to GitHub Discussion thread]
+### Next Session: April 9, 2026, 2 pm - 2:45 pm
+**Topic:** All the Little Things by Sandi Metz
 
-> Check back soon for our first session announcement!
+**Material:** [Talk on YouTube](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+
+**Facilitator:** Simon
+
+**Discussion:** [Discussion thread](https://github.com/dartmouth/cwg-reading-group/discussions/3)
+
 
 ## 📖 Past Sessions
 
