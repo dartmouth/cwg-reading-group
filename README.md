@@ -60,13 +60,12 @@ We're here to learn together, not quiz each other.
 
 ## 📚 Upcoming Sessions
 
-### Next Session: [Date TBD]
-**Topic:** TBD
-**Material:** Link TBD
-**Facilitator:** TBD
+### Next Session: April 9, 2026, 2 pm - 2:45 pm
+**Topic:** All the Little Things by Sandi Metz
+**Material:** [Talk on YouTube](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+**Facilitator:** Simon
 **Discussion:** [Link to GitHub Discussion thread]
 
-> Check back soon for our first session announcement!
 
 ## 📖 Past Sessions
 
