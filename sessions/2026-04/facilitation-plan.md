@@ -1,8 +1,11 @@
 # Facilitation Plan: "All the Little Things" by Sandi Metz
 
 **Date:** April 9, 2026, 2:30–3:15 PM ET
+
 **Facilitators:** Simon (in-room), Beaudry (Zoom, Group 2), Will (Zoom, Group 3)
+
 **Format:** Hybrid — 1 in-room group + 2 Zoom groups, each with a dedicated facilitator
+
 **Material:** [All the Little Things – RailsConf 2014](https://www.youtube.com/watch?v=8bZh5LMaSmE) (~38 min)
 
 ---
