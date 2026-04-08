@@ -64,6 +64,16 @@ Logistics:
 
 ---
 
+#### Opener — Connection Check *(~5 min)*
+
+> What parts of the talk felt familiar to you, and what parts felt far away from your day-to-day?
+
+*Why this works:* With a diverse audience — software engineers, data scientists, researchers who write code — this gives everyone an easy on-ramp. It surfaces which parts of the talk landed and which didn't, and helps the facilitator gauge the room before diving deeper.
+
+**If conversation stalls:** "Was there a moment where you thought 'yes, I deal with that every day' — or a moment where it felt totally disconnected from what you do?"
+
+---
+
 #### Question 1 — The Squint Test *(~5 min)*
 
 > Sandi introduces the "squint test" — lean back, squint at your code, and look for changes in shape (nesting) and color (mixed abstraction levels). Have you ever had a visceral, gut-level reaction to code complexity before you fully understood the code? What signals do you use to sense that code is in trouble?
@@ -74,24 +84,17 @@ Logistics:
 
 ---
 
-#### Question 2 — "Duplication is far cheaper than the wrong abstraction" *(~10 min)*
+#### Question 2 — Duplication, Abstraction, and Your Code *(~13 min)*
 
-> Sandi argues that we teach beginners DRY first because it's the only thing they can recognize — but that experienced developers should be willing to tolerate duplication and wait for a better abstraction to emerge. Do you agree? Can you think of a time when you (or your team) DRY-ed up code too early and ended up fighting the resulting abstraction?
+> When you're writing code, do you worry about duplication? Do you care about abstractions? Where do those ideas show up — or not show up — in the kind of work you do?
 
-*Why this works:* This is the talk's most quotable and debatable claim. It directly challenges something most of us treat as gospel. Should generate genuine disagreement.
+*Why this works:* This opens the door to the talk's biggest themes — DRY, abstraction cost, the wrong abstraction — without assuming everyone knows the jargon. It also naturally invites people to connect the talk to their own context (research software, data pipelines, scripts, etc.). Let the conversation go where the group takes it.
 
 **Follow-up probes if needed:**
-- "What does it feel like when you're working with the *wrong* abstraction? How do you recognize it?"
-- "She suggests using 'dup tags' to track duplication instead of immediately removing it. Would that fly in a code review on your team?"
+- "Sandi says 'duplication is far cheaper than the wrong abstraction.' Does that ring true for you?"
+- "Have you ever cleaned up repeated code and then regretted the abstraction you introduced?"
+- "For those working on research code or scripts — do concepts like DRY and abstraction even come up, or is your world more 'get it working, move on'?"
 - "Is there a threshold — a number of duplicates, or a level of complexity — where you'd say 'OK, now it's time to abstract'?"
-
----
-
-#### Question 3 — Connecting to Our Work *(~8 min)*
-
-> A lot of us work on research software, data pipelines, or internal tools that may not look like a Rails app. Where do you see the ideas from this talk applying to the kind of code you write? Are there patterns from the talk — small objects, Open/Closed, separating configuration from logic — that feel especially relevant or especially *ir*relevant to your work?
-
-*Why this works:* Grounds the discussion in participants' actual contexts. Research software often has different constraints (small teams, domain experts writing code, "write once" scripts that quietly become infrastructure).
 
 **⚠️ Wrap up your group at 0:33** (two minutes before reconvene) and ask your group:
 > "Before we head back — what's the one thing from our discussion you'd most want to share with the other groups?"
@@ -165,6 +168,6 @@ Close out:
 - **This is the first meeting.** Be warm and welcoming in the intro. Some people may not know anyone else in the group. The logistics explanation is especially important — don't rush it.
 - **The talk is long (~38 min).** Some people won't have watched it. The summary and the questions are designed to work even if people only caught the gist.
 - **Ruby-specific syntax** might be unfamiliar to some. If someone gets hung up on Ruby details, redirect: "The specific language doesn't matter as much as the *pattern* — what would this look like in your language?"
-- **The DRY vs. abstraction question (Q2) is your strongest card.** If you're short on time, spend the most time here — it generates the richest debate.
+- **The combined duplication/abstraction discussion (Q2) is your strongest card** — it's where the talk's biggest ideas meet people's real experience. If you're short on time, spend the most time here.
 - **Watch for the "well, actually" trap.** Some people may want to debate whether Sandi's specific OO approach is the *right* approach vs. functional programming, pattern matching, etc. That's fine for a few minutes, but redirect to the underlying principles if it goes too long.
 - **Zoom facilitators:** If your group is quiet, try a quick round-robin: "Let's go around quickly — one word or phrase that comes to mind from the talk."
