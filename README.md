@@ -19,8 +19,8 @@ We focus on practical, actionable content that can influence how we build softwa
 
 ## 📅 Format
 
-- **Frequency:** Monthly (typically 2nd Thursday, 2:00-2:45 PM ET)
-- **Duration:** 45 minutes
+- **Frequency:** Monthly (typically 2nd Thursday, 2:30-3:30 PM ET)
+- **Duration:** 60 minutes
 - **Location:** Hybrid (room TBD + video conference link in calendar invite)
 - **Materials:** Usually short-form content (~15-30 min reading/watching), occasionally longer
   - Blog posts
