@@ -60,24 +60,19 @@ We're here to learn together, not quiz each other.
 
 ## 📚 Upcoming Sessions
 
-### Next Session: April 9, 2026, 2 pm - 2:45 pm
-**Topic:** All the Little Things by Sandi Metz
+### Next Session: May 13, 2026, 2:30–3:30 PM ET
+**Topic:** Programming by Coincidence — *The Pragmatic Programmer*, Chapter 6, Section 31
 
-**Material:** [Talk on YouTube](https://www.youtube.com/watch?v=8bZh5LMaSmE)
+**Material:** [Access via Dartmouth Library](https://search.library.dartmouth.edu/permalink/01DCL_INST/1ad0101/alma991033386563205706)
 
-**Facilitator:** Simon
-
-**Discussion:** [Discussion thread](https://github.com/dartmouth/cwg-reading-group/discussions/3)
+**Location:** Anonymous 316 and on Zoom
 
 
 ## 📖 Past Sessions
 
 Session archives available in [`/sessions`](./sessions/) directory.
 
-<!--
-Example entry:
-- **[March 2024: Code Review Best Practices](./sessions/2024-03/)** - Discussion of Google's Engineering Practices guide
--->
+- **[April 2026: All the Little Things by Sandi Metz](./sessions/2026-04/)** — Refactoring, small objects, and why duplication beats the wrong abstraction
 
 ## 💡 Suggest a Topic
 
