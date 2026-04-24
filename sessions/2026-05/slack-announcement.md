@@ -7,4 +7,4 @@ Hunt and Thomas argue that we rely on coincidence more than we'd like to admit �
 :calendar_spiral: **Wednesday, May 13 · 2:30–3:30 PM ET**
 :round_pushpin: Anonymous 316 and on Zoom
 
-Access the reading through the Dartmouth Library and register here: [LIBCAL LINK]
+Access the reading through the Dartmouth Library and register here: [https://libcal.dartmouth.edu/event/16787887](https://libcal.dartmouth.edu/event/16787887)
