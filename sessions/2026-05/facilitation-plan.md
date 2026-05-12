@@ -1,10 +1,10 @@
-# Facilitation Plan: "All the Little Things" by Sandi Metz
+# Facilitation Plan: "Programming by Coincidence" from "The Pragmatic Programmer
 
 **Date:** May 13th, 2026, 2:30–3:30 PM ET
 
-**Facilitators:** Simon (in-room), Beaudry (Zoom, Group 2), Will (Zoom, Group 3)
+**Facilitators:** Simon (in-room), Beaudry (Zoom)
 
-**Format:** Hybrid — 1 in-room group + 2 Zoom groups, each with a dedicated facilitator
+**Format:** Hybrid — 1 in-room group + 1 Zoom group, each with a dedicated facilitator
 
 **Material:** [The Pragmatic Programmer Chapter 6, Section 31 — "Programming by Coincidence"](https://search.library.dartmouth.edu/permalink/01DCL_INST/1ad0101/alma991033386563205706) (~10 min)
 
@@ -20,7 +20,7 @@ In this chapter, the book introduces the idea of "programming by coincidence". T
 
 ### 0:00–0:05 — Welcome + CWG & Reading Group Introduction
 
-*Simon leads. This is the first meeting, so take a moment to orient everyone.*
+*Simon leads. This is the second meeting, so take a moment to orient everyone.*
 
 > "Welcome, everyone! I'm Simon, and I'm really glad you're here for the second session of the Code Writers Guild Reading Group."
 
@@ -35,38 +35,36 @@ Quick calibration:
 
 ---
 
-### 0:05–0:10 — Hybrid Logistics + Group Split
+### 0:05–0:06 — Group Split
 
 *Simon leads. Explain the plan and get everyone sorted before the clock starts on discussion.*
 
 > "Here's how today works. Because we have people in the room and people on Zoom, we're going to split into three small groups — that way everyone gets a real conversation, not a big awkward hybrid call."
 
 Explain the groups:
-> "Group 1 is here in the room with me. Groups 2 and 3 are on Zoom — Beaudry is leading Group 2 and Will is leading Group 3. Each group will have the same discussion questions, so at the end we'll come back together and compare notes."
+> "Group 1 is here in the room with me. Groups 2 is on Zoom — Beaudry is leading the Zoom. Each group will have the same discussion questions, so at the end we'll come back together and compare notes."
 
-Logistics:
-> "If you're on Zoom, you should be getting moved into a breakout room now. Each breakout room has a facilitator — you'll see Beaudry or Will in there with you. We'll bring everyone back together at 2:35."
-
-*[Move Zoom attendees into breakout rooms. Confirm in-room group is settled.]*
 
 > "Any questions before we split? … Great. Let's go!"
-
----
-
-### 0:10–0:35 — Breakout Group Discussion
-
-*Each facilitator runs this section independently with their group. All three groups use the same questions below.*
-
-**Start with the 2-minute summary** so everyone has shared context before diving in.
-
-> "Let me give a quick summary for anyone who didn't get to the full talk..."
-> *[Deliver the summary from the top of this document.]*
 
 ---
 
 #### Opener — Introductions *(~5 min)*
 
 > Everyone should go around and introduce themselves.
+
+---
+
+### 0:10–0:45 — Breakout Group Discussion
+
+*Each facilitator runs this section independently with their group. All three groups use the same questions below.*
+
+**Start with the 2-minute summary** so everyone has shared context before diving in.
+
+> "Let me give a quick summary for anyone who didn't get to reading the whole chapter..."
+> *[Deliver the summary from the top of this document.]*
+
+
 
 ---
 
@@ -78,33 +76,33 @@ Fred developed his project by building on top of things that appeared to work. O
 
 ---
 
-#### Question 2 — Is getting it working enough? *(~13 min)*
+#### Question 2 — Is getting it working enough? *(~10 min)*
 
 > What is our responsibility as "coders"? Is getting it working enough, or are we required to understand **why** our code is working?
 
 ---
 
-#### Question 3 — Is getting it working enough? *(~13 min)*
+#### Question 3 — Challenges with deliberate programming? *(~10 min)*
 
 > What things often get in the way of deliberate programming?
 
 Confirmation bias
 Time restraints
 
-#### Question 3 — The Deliberate Programming prescriptions *(~13 min)*
+#### Question 4 — The Deliberate Programming prescriptions *(~10 min)*
 
 > What do you think of the prescriptions to avoid "programming by coincidence"? What tools have you found that work for you?
 
-**⚠️ Wrap up your group at 0:33** (two minutes before reconvene) and ask your group:
+**⚠️ Wrap up your group at 0:43** (two minutes before reconvene) and ask your group:
 > "Before we head back — what's the one thing from our discussion you'd most want to share with the other groups?"
 
 *Note down 2–3 highlights to bring to the share-out.*
 
 ---
 
-### 0:35–0:45 — Reconvene + Share-Out + Wrap-Up
+### 0:45–1:00 — Reconvene + Share-Out + Wrap-Up
 
-*Simon leads. Bring Zoom participants back from breakout rooms at 0:35.*
+*Simon leads. Bring Zoom participants back in the hybrid session at 0:45.*
 
 > "Welcome back, everyone! Let's hear from each group. Beaudry, can you kick us off — what were the highlights from your group?"
 
@@ -114,7 +112,7 @@ Each facilitator shares **2–3 highlights** from their group (~2 min each):
 - Any strong agreement or disagreement with Sandi's claims?
 
 After all three groups have shared, Simon synthesizes:
-> "A few things I'm noticing across all three groups: [2–3 common themes or interesting contrasts]."
+> "A few things I'm noticing across both groups: [2–3 common themes or interesting contrasts]."
 
 Close out:
 - "What's one thing from today you might actually try or think about differently?"
@@ -122,13 +120,13 @@ Close out:
 - Remind people about the GitHub Discussion thread for continuing the conversation async.
 - Thank everyone:
 
-> "Thanks so much for being here — especially for joining us for the very first session. Notes will be posted in the repo within a few days. Feel free to keep the conversation going in the GitHub Discussion thread. See you next month!"
+> "Thanks so much for being here. Notes will be posted in the repo within a few days. Feel free to keep the conversation going in the GitHub Discussion thread. See you next month!"
 
 ---
 
 ## Facilitator Guidance for Breakout Groups
 
-*This section is especially for Beaudry and Will running the Zoom groups.*
+*This section is especially for Beaudry running the Zoom group.*
 
 **Before the session:**
 - Have the discussion questions open and ready to screen share.
@@ -153,4 +151,6 @@ Close out:
 ---
 
 ## Backup Questions (if you need to fill time or redirect)
+
+- Relate deliberate programming to AI-assisted programming
 
