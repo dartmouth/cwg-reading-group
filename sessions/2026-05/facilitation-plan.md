@@ -109,7 +109,7 @@ Time restraints
 Each facilitator shares **2–3 highlights** from their group (~2 min each):
 - What sparked the most debate?
 - Any surprising takes or examples from people's real work?
-- Any strong agreement or disagreement with Sandi's claims?
+- Any strong agreement or disagreement with points raised in the chapter?
 
 After all three groups have shared, Simon synthesizes:
 > "A few things I'm noticing across both groups: [2–3 common themes or interesting contrasts]."
@@ -134,7 +134,7 @@ Close out:
 - Know the 2-minute summary well enough to deliver it conversationally.
 
 **During the breakout:**
-- Deliver the 2-minute summary first, even if some people watched the talk.
+- Deliver the 2-minute summary first.
 - Use the questions as a guide, not a script — let the conversation flow.
 - **Watch the chat.** On Zoom, quieter participants often type instead of speaking. Invite them in: "I see Jamie added something in the chat — Jamie, do you want to say more about that?"
 - If someone dominates, thank them and open it up: "Great point — let's hear from a few others on this."
