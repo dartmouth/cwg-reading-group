@@ -14,7 +14,9 @@ Each month we pick a short piece of content, like a book chapter, conference tal
 
 **This Month's Topic: "If You Think This Caused a Revolution, Read on ...", and the disruption of desktop publishing in 1988. 
 
-Betsy Brill show us a messy, imperfect ecosystem giving rise to a new kind of technical professional. As we confront modern tools, how do we channel our skepticism away from defensive gatekeeping and toward this moment where the rules of tomorrow are not yet written?
+The rise of disruptive new tools has always been a defining feature of both software engineering and research. For practitioners, these shifts inevitably bring a mix of anxiety and opportunity. When disruptions are large enough to alter our core workflows, they tend to trigger deeply polarized reactions as practitioners, business leaders, and the general public all scramble to define what these tools actually mean for the future.
+
+We can find a powerful parallel in the 1980s. Author Betsy Brill highlights the messy, imperfect ecosystem of publishing during that era, when Adobe’s introduction of PostScript—combined with Apple's newly affordable, intuitive desktop publishing tools—gave rise to an entirely new class of technical professional. As we confront modern shifts like AI-assisted coding, how should we redefine our own practices? What can we learn from recent evolutions within our industry, like the rise of package managers, or from the history of related fields like design and publishing?
 
 **Read before attending (optional but encouraged):** "If You Think This Caused a Revolution, Read on ...", by Betsy Brill, available through the Dartmouth Library: [Access via library catalog](https://search.library.dartmouth.edu/permalink/01DCL_INST/12d50kb/cdi_proquest_reports_196402091)
 
