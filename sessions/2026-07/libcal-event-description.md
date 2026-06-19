@@ -12,7 +12,7 @@ Join the Code Writers Guild Reading Group, a monthly forum for anyone at Dartmou
 
 Each month we pick a short piece of content, like a book chapter, conference talk, or blog post, and discuss how the ideas apply to the work we do at Dartmouth. Sessions are informal, low-pressure, and aimed at sparking conversation. No preparation is required to attend.
 
-**This Month's Topic: "If You Think This Caused a Revolution, Read on ...", and the disruption of desktop publishing in 1988. 
+**This Month's Topic: "If You Think This Caused a Revolution, Read on ...", and the disruption of desktop publishing in 1988.
 
 The rise of disruptive new tools has always been a defining feature of both software engineering and research. For practitioners, these shifts inevitably bring a mix of anxiety and opportunity. When disruptions are large enough to alter our core workflows, they tend to trigger deeply polarized reactions as practitioners, business leaders, and the general public all scramble to define what these tools actually mean for the future.
 
@@ -24,7 +24,7 @@ We can find a powerful parallel in the 1980s. Author Betsy Brill highlights the 
 
 - **Date:** Wednesday, July 1, 2026
 - **Time:** 2:30–3:30 PM ET
-- **Location:** Anonymous 316 and via Zoom at https://dartmouth.zoom.us/j/96493192899?pwd=n8z6Ld4ZSrp2rUZON6HvjfWRhG01vG.1
+- **Location:** Anonymous 316 and via Zoom
 - **Open to:** All Dartmouth community members
 
 Please register here. Let's talk code!

@@ -7,4 +7,4 @@ Betsy Brill show us a messy, imperfect ecosystem giving rise to a new kind of te
 :calendar_spiral: **Wednesday, July 1 · 2:30–3:30 PM ET**
 :round_pushpin: Anonymous 316 and on Zoom
 
-Access the reading through the Dartmouth Library and register here: [https://libcal.dartmouth.edu/event/16787887](https://libcal.dartmouth.edu/event/16787887)
+Access the reading through the Dartmouth Libraries and [register here](https://libcal.dartmouth.edu/event/17074736).
