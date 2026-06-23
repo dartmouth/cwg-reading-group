@@ -1,18 +1,18 @@
-# Facilitation Plan: "Programming by Coincidence" from "The Pragmatic Programmer
+# Facilitation Plan: "If You Think This Caused a Revolution, Read on . . ."
 
-**Date:** May 13th, 2026, 2:30–3:30 PM ET
+**Date:** July 1, 2026, 2:30–3:30 PM ET
 
-**Facilitators:** Simon (in-room), Beaudry (Zoom)
+**Facilitators:** Will (in-room), Simon, Beaudry (Zoom)
 
 **Format:** Hybrid — 1 in-room group + 1 Zoom group, each with a dedicated facilitator
 
-**Material:** [The Pragmatic Programmer Chapter 6, Section 31 — "Programming by Coincidence"](https://search.library.dartmouth.edu/permalink/01DCL_INST/1ad0101/alma991033386563205706) (~10 min)
+**Material:** ["If You Think This Caused a Revolution, Read on . . ."](https://search.library.dartmouth.edu/permalink/01DCL_INST/12d50kb/cdi_proquest_reports_196402091) (~10 min)
 
 ---
 
 ## 2-Minute Summary (for those who didn't read)
 
-In this chapter, the book introduces the idea of "programming by coincidence". This is a trap programmers fall into where they fail to closely inspect and understand why their code is working during implementation. This leads to them having a poor conceptual model of why their code is working. Eventually the day comes that it unrepentantly stops working, and they stuggle to understand why. To prevent this situation, "The Pragmatic Programmer" argues for what they call "deliberate programming" where at every step the programmer tests and validates the implicit and explicit assumptions they make in their code.
+This article by Betsy Brill is a reflexion of the impending changes to the publishing industry by the rise of desktop publushing tools. Desktop publishing "is the most significant development in written communications since the invention of moveable type. What other technological shifts have done, he explains, is affect craftspeople, those who simply arrange type into someone else's words. Desktop publishing, he maintains, has returned the tools of communication to those who have something to say." The article includes quotes and perspectives on both sides of the impending change, those who are resistant or skeptical, and those who are happy to embrace change. We can read this article from a privileged vantage point in the future, and can see how the rise of desktop publishing in many ways created the world we work in, developing applications and websites to enable our clients to do their work. How is the rise of new AI tools the same as the rise of desktop publishing, and what lessons can we take about our own work from a review of related technical disruption?
 
 ---
 
@@ -37,7 +37,7 @@ Quick calibration:
 
 ### 0:05–0:06 — Group Split
 
-*Simon leads. Explain the plan and get everyone sorted before the clock starts on discussion.*
+*Will leads. Explain the plan and get everyone sorted before the clock starts on discussion.*
 
 > "Here's how today works. Because we have people in the room and people on Zoom, we're going to split into three small groups — that way everyone gets a real conversation, not a big awkward hybrid call."
 
@@ -68,33 +68,21 @@ Explain the groups:
 
 ---
 
-#### Question 1 — Fred's Parable *(~5 min)*
+#### Question 1 — Craft vs Intent 
 
-Fred developed his project by building on top of things that appeared to work. One day it suddenly stopped working and he couldn't figure out why.
-
-> Have you ever found yourself in a situation similar to Fred while programming? How relatable was his story?
+The article notes that while traditional typesetting changes affected "craftspeople, those who simply arrange type," desktop publishing "returned the tools of communication to those who have something to say." As Software Engineers, when a new tool automates a complex technical "craft" we've mastered, how do we pivot our focus from the execution of the code to the higher-level intent or scientific problem we are trying to solve?
 
 ---
 
-#### Question 2 — Is getting it working enough? *(~10 min)*
+#### Question 2 — The Value of Expertise 
 
-> What is our responsibility as "coders"? Is getting it working enough, or are we required to understand **why** our code is working?
+Early critics of desktop publishing complained that putting advanced tools into untrained hands lowered standards and produced "design disasters." However, it also gave rise to "rent-a-designer" services, training frameworks, and a premium on "Renaissance people" who blended editing, writing, and design. When disruptive development tools lower the barrier to entry for non-software experts (like researchers writing their own pipelines), how should our roles evolve from being gatekeepers of code execution to being strategic consultants, educators, and architects?
 
 ---
 
-#### Question 3 — Challenges with deliberate programming? *(~10 min)*
+#### Question 3 — Beginners' Mind 
 
-> What things often get in the way of deliberate programming?
-
-Confirmation bias
-Time restraints
-
-#### Question 4 — The Deliberate Programming prescriptions *(~10 min)*
-
-> What do you think of the prescriptions to avoid "programming by coincidence"? What tools have you found that work for you?
-
-**⚠️ Wrap up your group at 0:43** (two minutes before reconvene) and ask your group:
-> "Before we head back — what's the one thing from our discussion you'd most want to share with the other groups?"
+Industry observers in 1988 noted that while the new systems had glaring immediate limitations (like uneven spacing or limited fonts), the technology was moving so fast those issues would soon be remedied. When evaluating an imperfect, highly disruptive new tool today, how can we train ourselves to look past its current bugs and "ragged edges" to anticipate its future ecosystem, rather than dismissing it out of skepticism?
 
 *Note down 2–3 highlights to bring to the share-out.*
 
@@ -151,6 +139,4 @@ Close out:
 ---
 
 ## Backup Questions (if you need to fill time or redirect)
-
-- Relate deliberate programming to AI-assisted programming
 
