@@ -20,9 +20,9 @@ This article by Betsy Brill is a reflexion of the impending changes to the publi
 
 ### 0:00–0:05 — Welcome + CWG & Reading Group Introduction
 
-*Simon leads. This is the second meeting, so take a moment to orient everyone.*
+*Simon leads the welcome. This is the third meeting, so take a moment to orient everyone.*
 
-> "Welcome, everyone! I'm Simon, and I'm really glad you're here for the second session of the Code Writers Guild Reading Group."
+> "Welcome, everyone! I'm Simon, and I'm really glad you're here for the third session of the Code Writers Guild Reading Group."
 
 Briefly introduce the **Code Writers Guild:**
 > "The Code Writers Guild is a community for people at Dartmouth who write code — whether that's software engineers, research software engineers, data scientists, or anyone who spends time in a text editor as part of their job. The goal is to connect across teams, share what we're learning, and improve our craft together."
@@ -31,7 +31,7 @@ Then introduce the **Reading Group specifically:**
 > "The Reading Group is one of the ways we do that. Once a month, we pick a short piece of content — a talk, a blog post, an article — and get together for 45 minutes to discuss it. It's not a lecture, it's a conversation. No wrong answers, no quiz at the end. You don't even have to have watched the material — though it helps!"
 
 Quick calibration:
-> "Quick show of hands: who read the whole chapter? Partway through? Just caught the description? All good either way — I'll give a quick summary once we're in our groups."
+> "Quick show of hands: who read the whole article? Partway through? Just caught the description? All good either way — I'll give a quick summary once we're in our groups."
 
 ---
 
@@ -64,7 +64,13 @@ Explain the groups:
 > "Let me give a quick summary for anyone who didn't get to reading the whole chapter..."
 > *[Deliver the summary from the top of this document.]*
 
+---
 
+#### Question 0 - Riding the Waves
+
+Our practice is often defined by weathering huge changes in our tooling and our ecosystems, whether it's the rise of high level languages over assembly, or the rise of idiomatic scripting languages like Ruby and Python, to package managers replicating the unix ideals of many atomic packages working in concert. 
+
+What are some of the bigger changes you've seen that have nothing to do with machine learning or AI that really changed the way you do your work, such as package management thourhg NPMJS or RubyGems, or the change from C++ to Python?
 
 ---
 
@@ -82,7 +88,7 @@ Early critics of desktop publishing complained that putting advanced tools into 
 
 #### Question 3 — Beginners' Mind 
 
-Industry observers in 1988 noted that while the new systems had glaring immediate limitations (like uneven spacing or limited fonts), the technology was moving so fast those issues would soon be remedied. When evaluating an imperfect, highly disruptive new tool today, how can we train ourselves to look past its current bugs and "ragged edges" to anticipate its future ecosystem, rather than dismissing it out of skepticism?
+Industry observers in 1988 noted that while the new systems had glaring immediate limitations (like uneven spacing or limited fonts), the technology was moving so fast those issues would soon be remedied. When evaluating an imperfect, highly disruptive new tool today, how can we imagine the niche it might fill in the future? What tools did we use in the past that now seem inappropriate given the tradeoffs newer technologies provide?
 
 *Note down 2–3 highlights to bring to the share-out.*
 
@@ -90,20 +96,19 @@ Industry observers in 1988 noted that while the new systems had glaring immediat
 
 ### 0:45–1:00 — Reconvene + Share-Out + Wrap-Up
 
-*Simon leads. Bring Zoom participants back in the hybrid session at 0:45.*
+*Will leads. Bring Zoom participants back in the hybrid session at 0:45.*
 
-> "Welcome back, everyone! Let's hear from each group. Beaudry, can you kick us off — what were the highlights from your group?"
+> "Welcome back, everyone! Let's hear from each group. [Simon|Beaudry], can you kick us off — what were the highlights from your group?"
 
 Each facilitator shares **2–3 highlights** from their group (~2 min each):
 - What sparked the most debate?
 - Any surprising takes or examples from people's real work?
-- Any strong agreement or disagreement with points raised in the chapter?
 
 After all three groups have shared, Simon synthesizes:
 > "A few things I'm noticing across both groups: [2–3 common themes or interesting contrasts]."
 
 Close out:
-- "What's one thing from today you might actually try or think about differently?"
+- "What's one thing from today you might actually think about differently?"
 - Mention the next session topic (or solicit suggestions).
 - Remind people about the GitHub Discussion thread for continuing the conversation async.
 - Thank everyone:
@@ -114,7 +119,7 @@ Close out:
 
 ## Facilitator Guidance for Breakout Groups
 
-*This section is especially for Beaudry running the Zoom group.*
+*This section is especially for [Simon | Beaudry] running the Zoom group.*
 
 **Before the session:**
 - Have the discussion questions open and ready to screen share.
