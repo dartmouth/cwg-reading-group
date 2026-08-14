@@ -7,4 +7,4 @@ We take a look at some common thoughts amongst developers around imposter syndro
 :calendar_spiral: **Thursday, September 3 · 2:30–3:30 PM ET**
 :round_pushpin: Anonymous 316 and on Zoom
 
-Access the reading through the Dartmouth Libraries and [register here](https://libcal.dartmouth.edu/event/17074736).
+Access the reading, "What we talk about when we talk about imposter syndrome", by Eira May, available online: [Access via the Stack Overflow blog](https://stackoverflow.blog/2023/09/11/what-we-talk-about-when-we-talk-about-imposter-syndrome/?utm_campaign=the-overflow-newsletter&utm_medium=email&utm_source=iterable) and [register here](https://libcal.dartmouth.edu/event/).

@@ -14,7 +14,7 @@ Each month we pick a short piece of content, like a book chapter, conference tal
 
 **This Month's Topic: "A Developer By Any Other Name or 'Catch That Imposter!'" and how we deal with imposter syndrome in code writing and development.
 
-Continuing the thread from our last discussion, a thought-provoking (terrifying?) question follows me: What/who is a code writer? What about one that doesn’t write code? Using whichever metaphor comes to mind and offers some means of explicating your perspective, you may be the “designer” in desktop publishing or the “architect” of a set of specs, tools, and environments—technical and social—that enable your team to build the thing. Some might argue that in order for you to do this, you need to be able to play all positions on the team with great skill. For others, you may be served with the understanding that all it takes are the right intentions.
+Continuing the thread from our last discussion, a thought-provoking (terrifying?) question bubbles up: What/who is a code writer? What about one that doesn’t write code? Using whichever metaphor comes to mind and offers some means of explicating your perspective, you may be the “designer” in desktop publishing or the “architect” of a set of specs, tools, and environments—technical and social—that enable your team to build the thing. Some might argue that in order for you to do this, you need to be able to play all positions on the team with great skill. For others, you may be served with the understanding that all it takes are the right intentions.
 
 But there is a third opinion, and one that is most insidious: you may actually be an imposter and not know enough to be considered a real code writer. 
 
